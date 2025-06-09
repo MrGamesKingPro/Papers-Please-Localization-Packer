@@ -3,11 +3,12 @@
 **Internet Connection:** A stable internet connection is crucial because the tool relies on an external web page for asset generation.
 https://paperspleaseloc.github.io/
 
-Download tool Papers-Please-Localization-Packer  
+## Download tool [Papers-Please-Localization-Packer ](https://github.com/MrGamesKingPro/Papers-Please-Localization-Packer/releases/tag/Papers-Please-Localization-Packer) 
 
 # Papers-Please-Localization-Packer
 This tool automates the process of taking a translated text file (Loc.csv) for "Papers, Please" and generating all the necessary game assets (images with translated text, data files) required to use that translation in the game. It packages these assets into a .zip file, which is the format the game
 
+![Screenshot_2025-06-09_22-32-43](https://github.com/user-attachments/assets/30c8a83d-5528-4317-9b5f-910a8b9d4051)
 
 **How to Use the Tool (Step-by-Step):**
 
