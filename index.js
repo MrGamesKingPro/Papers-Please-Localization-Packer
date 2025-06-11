@@ -344,7 +344,7 @@ function makeZip(dir, outputFilename)
 	const JSZip = require('node-zip'); // Ensure JSZip is correctly imported if not global
 	const zip = new JSZip();
 	addToZip(dir, dir, zip);
-	var data = zip.generate( {base64:false, compression:'DEFLATE'} ); // Added compression option for standard zip
+	var data = zip.generate( {base64:false} ); // Added compression option for standard zip
 	fs.writeFileSync(outputFilename, data, 'binary');
 }
 
